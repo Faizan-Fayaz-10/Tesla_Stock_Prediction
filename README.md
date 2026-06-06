@@ -310,8 +310,8 @@ Open the local host
 
 **Name**: FAIZAN FAYAZ 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/alvira-parveen-78022536b)  
-🌐 [GitHub](https://github.com/Alvira-Parveen)
+🔗 [LinkedIn](www.linkedin.com/in/faizan-fayaz-464723326)  
+🌐 [GitHub](https://github.com/Faizan-Fayaz-10)
 
 ---
 
