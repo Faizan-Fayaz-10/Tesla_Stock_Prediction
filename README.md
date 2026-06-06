@@ -310,7 +310,7 @@ Open the local host
 
 **Name**: FAIZAN FAYAZ 
 
-🔗 [LinkedIn](www.linkedin.com/in/faizan-fayaz-464723326)  
+🔗 [LinkedIn](https://www.linkedin.com/in/faizan-fayaz-464723326/)  
 🌐 [GitHub](https://github.com/Faizan-Fayaz-10)
 
 ---
