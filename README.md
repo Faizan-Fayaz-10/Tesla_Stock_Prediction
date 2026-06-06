@@ -12,7 +12,7 @@ An end-to-end Deep Learning project that predicts Tesla stock prices using **Sim
 
 ---
 
-🌐 **Live Demo:** [Tesla Stock Price Prediction App](https://teslastockpricepredictionap.streamlit.app/)
+🌐 **Live Demo:** [Tesla Stock Price Prediction App](https://teslastockprediction-nsfgy5obb4hkfosgvuucqb.streamlit.app/)
 
 ---
 
