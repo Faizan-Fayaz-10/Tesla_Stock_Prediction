@@ -308,7 +308,8 @@ Open the local host
 
 ## 👤 Author
 
-**Name**: ALVIRA PARVEEN  
+**Name**: FAIZAN FAYAZ 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/alvira-parveen-78022536b)  
 🌐 [GitHub](https://github.com/Alvira-Parveen)
 
